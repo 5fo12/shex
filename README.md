@@ -1,5 +1,5 @@
 # Shex scripting langauge
-Shex is a small interpreted language.
+Shex is a small interpreted language.  
 It currently is still being updated.  
 
 ### Comments
@@ -90,4 +90,4 @@ Recursive searching of if and function blocks is not implemented.
 Do not indent code in if or function blocks.  
 Do not leave whitespace after commands.  
 
-Using any of these will lead to errors.
+Breaking any of these rules will lead to errors.
