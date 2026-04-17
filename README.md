@@ -13,10 +13,7 @@ Just use the compiler binary:
 compile scriptname.sx
 ```
 
-You can build it yourself by running:  
-```
-go build shex.go
-```
+You can build it yourself by running the build script for your platform.  
 
 ### Comments
 Single line comments start with "!".  
